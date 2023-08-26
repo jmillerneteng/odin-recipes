@@ -1,0 +1,54 @@
+body {
+  font-family: georgia;
+  background: gainsboro;
+  font-size: 18px;
+  }
+
+h1 {
+	font-family: cursive;
+	color: gold;
+	background: black;
+	padding: 15px;
+}
+a:link, a:visited { 
+	color: black;
+}
+
+h2,h3 {
+	background: navy;
+	color: PaleTurquoise;
+	padding: 15px;
+}
+.head3 {
+	background: PaleTurquoise;
+	color: navy;
+}
+
+a:hover, a:active {
+	color: yellow;
+}
+
+.pagelinks {
+
+}
+ul {
+
+}
+
+li {
+} 
+
+ul.ingredients {
+	color: firebrick;
+	font-family: monospace;
+	font-size: 22px;
+}
+
+.instructions {
+	color: midnightblue;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+
+
